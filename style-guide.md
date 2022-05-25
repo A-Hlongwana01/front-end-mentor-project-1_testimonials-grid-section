@@ -8,7 +8,7 @@ The designs were created to the following widths:
 - Desktop: 1440px
 
 ## Colors
-
+ 
 ### Primary
 
 Moderate violet: hsl(263, 55%, 52%)
