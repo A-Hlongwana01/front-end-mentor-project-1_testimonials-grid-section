@@ -8,8 +8,7 @@
     --very_dark_grayish_blue: hsl(217, 19%, 35%);
     --very_dark_grayish_blue_70perc_op: hsla(217, 19%, 35%,0.7);
 
-    /* --Very_dark_blackish_blue: hsl(219, 29%, 14%); */
-    --Very_dark_blackish_blue: yellow;
+    --Very_dark_blackish_blue: hsl(219, 29%, 14%);
 
 }
 
