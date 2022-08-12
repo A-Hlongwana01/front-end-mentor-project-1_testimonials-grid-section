@@ -120,7 +120,7 @@ h2{
 
 .jonathan{
     grid-column: 3 / 4;
-    background-color: hsl(217, 19%, 35%);
+    background-color: var(--very_dark_grayish_blue);
 }
 
 
@@ -133,7 +133,7 @@ h2{
 .patrick{
     grid-row: 2 / 3;
     grid-column: 2 / 4;
-    background-color: hsl(219, 29%, 14%);
+    background-color: var(--Very_dark_blackish_blue);
 }
 
 
