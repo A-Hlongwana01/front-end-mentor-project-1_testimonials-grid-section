@@ -157,8 +157,43 @@ h2{
         font-size: 13px;
     }
 
-    .wrapper div{
+    .wrapper .person-content{
         margin: 10px;
-        background-color: yellow;
+        
     }
+
+    #svg{
+        position:absolute;
+        z-index: -1;
+        right: 10px;
+        padding: 0;
+        margin: 0;
+    }
+
+    .img{
+    /* border-color: rgb(110, 10, 110); */
+    border-color: var(--moderate_violet);
+    border-style: solid;
+    border-radius: 50px;
+    border-width: 0.6mm;
+    background-color: white;
+    margin: 5px;
+    width: 30px;
+    height: 30px;
+    margin-top: 10px;
 }
+
+.image-headers{
+    display: flex;
+    padding-bottom: 0;
+    margin-bottom: 0;
+    /* background-color: yellow; */
+}                                                                  
+
+.wrapper .paragraphs{
+    padding-top: 0px;
+    margin-top: 0px;
+    /* background-color: yellow; */
+}
+}
+
