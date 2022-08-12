@@ -88,6 +88,10 @@ h2{
     border-color: rgb(255, 255, 255);
 }
 
+#white-border2{
+    border-color: rgb(255, 255, 255);
+}
+
 .black-color .main-text{
     color: var(--very_dark_grayish_blue_70perc_op);
 }
