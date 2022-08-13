@@ -67,7 +67,7 @@ body{
 .black-color .status{
     color: var(--black_50perc_op);
 }
-h2{
+h1{
     font-size: 16px;
 }
 .intro-text{
